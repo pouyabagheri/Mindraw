@@ -11,4 +11,4 @@ Join the [Meetup](https://www.meetup.com/mindraw/)
 
 Join the WhatsApp group for instant updates and communications: [Mindraw](https://chat.whatsapp.com/ELRibWY2kTS5O36ZY6oHp2)
 
-For more info please [contact](pouyaxyz@gmail.com) 
+For more info please [contact](mailto:pouyaxyz@gmail.com) 
