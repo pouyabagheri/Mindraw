@@ -1,6 +1,6 @@
 # UPdate
 
-### Next workshop: July 6th - details TBA. 
+## Next workshop: July 6th - details TBA. 
 
 Workshops occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City
 
