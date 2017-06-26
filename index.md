@@ -1,6 +1,6 @@
 # UPdate
 
-### Next workshop: July 6th - details TBA. 
+### Next workshop: [Mindraw, July 6th](https://www.meetup.com/mindraw/events/241078414/)
 
 Workshops occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City
 
