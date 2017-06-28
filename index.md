@@ -11,6 +11,6 @@ Workshops currently occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City. P
 >> Join WhatsApp group for instant communications: [Mindraw](https://chat.whatsapp.com/ELRibWY2kTS5O36ZY6oHp2)
 
 >> For more info please contact: pouyaxyz@gmail.com
-
+>
 > ### About the teacher
 Pouya Bagheri a professional designer and also active in art of painting & drawing. He is interested in research in the area of creativity & related knowledge. He is also a regular practitioner of mindfulness meditation, so the combination all 3 concludes in these workshops he is offering.
