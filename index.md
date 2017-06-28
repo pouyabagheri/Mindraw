@@ -10,4 +10,4 @@ Workshops currently occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City. P
 
 > Join WhatsApp group for instant communications: [Mindraw](https://chat.whatsapp.com/ELRibWY2kTS5O36ZY6oHp2)
 
-> For more info please contact: pouyaxyz@gmail.com
+> [For more info please contact: pouyaxyz@gmail.com]
