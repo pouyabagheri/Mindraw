@@ -14,4 +14,4 @@ Workshops currently occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City. P
 >
 > ### About the teacher
 Pouya Bagheri a professional designer and also active in art of painting & drawing. He is interested in research in the area of creativity & related knowledge. He is also a regular practitioner of mindfulness meditation, so the combination all 3 concludes in these workshops he is offering.
-> ### Pouya's instagram [@p0uyax](https://www.instagram.com/p0uyax)
+> #### Pouya's instagram [@p0uyax](https://www.instagram.com/p0uyax)
