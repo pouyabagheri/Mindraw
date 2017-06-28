@@ -10,8 +10,8 @@ Previous workshops in 2017 round: June 22nd / June 8th / May 11th
 
 {Workshops being held in Melbourne since 2015}
 
-Join the [Meetup group](https://www.meetup.com/mindraw/)
+_Join the [Meetup group](https://www.meetup.com/mindraw/)
 
-Join WhatsApp group for instant communications: [Mindraw](https://chat.whatsapp.com/ELRibWY2kTS5O36ZY6oHp2)
+_Join WhatsApp group for instant communications: [Mindraw](https://chat.whatsapp.com/ELRibWY2kTS5O36ZY6oHp2)
 
-For more info please contact: pouyaxyz@gmail.com
+_For more info please contact: pouyaxyz@gmail.com
