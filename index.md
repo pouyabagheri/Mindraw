@@ -1,12 +1,12 @@
 # UPdate
 
-### Next workshop: [Mindraw, July 6th](https://www.meetup.com/mindraw/events/241078414/)
+### RSVP for next workshop: [Mindraw, July 6th](https://www.meetup.com/mindraw/events/241078414/)
 
 Workshops occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City
 
 Previous workshops in 2017 round: June 22nd / June 8th / May 11th
 
-Workshops beig held since 2015
+{Workshops being held in Melbourne since 2015}
 
 Join the [Meetup group](https://www.meetup.com/mindraw/)
 
