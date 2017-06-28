@@ -2,6 +2,8 @@
 
 ### RSVP for next workshop: [Mindraw, July 6th](https://www.meetup.com/mindraw/events/241078414/)
 
+These workshops are for everyone, with any backgound. What you need to bring is your: self, pens and pencils & some plain paper.
+
 Workshops occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City
 
 Previous workshops in 2017 round: June 22nd / June 8th / May 11th
