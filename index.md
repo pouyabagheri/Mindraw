@@ -4,11 +4,7 @@
 
 >> These workshops are for everyone, with any backgound. What you need to bring is your: self, pens and pencils & some plain paper.
 
-Workshops occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City
-
-Previous workshops in 2017 round: June 22nd / June 8th / May 11th
-
-{Workshops being held in Melbourne since 2015}
+Workshops currently occur fortnighly on Thursdays, 7 - 9 PM in Melbourne City. Previous workshops in 2017 round were June 22nd / June 8th / May 11th. Mindraw being held since 2015.
 
 > Join the [Meetup group](https://www.meetup.com/mindraw/)
 
