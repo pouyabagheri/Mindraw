@@ -1,6 +1,6 @@
 # UPdate
 
-### RSVP for next workshop: [Mindraw, July 20th](https://www.meetup.com/mindraw/events/241633658/)
+### NEXT WORKSHOP IN JULY TBA.
 
 > These workshops are for everyone, with any backgound. What you need to bring is your: self, pens and pencils & some plain paper.
 
