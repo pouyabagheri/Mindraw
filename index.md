@@ -1,4 +1,4 @@
-# UPdate
+# ^dates
 
 ### Upcoming workshop: Saturday Aug. 5th, Baillieu Library at Melbourne University. RSVP [here](https://www.meetup.com/mindraw/events/241996498/)
 
