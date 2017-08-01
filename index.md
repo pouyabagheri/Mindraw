@@ -1,6 +1,6 @@
 # UPdate
 
-### NEXT WORKSHOP IN JULY TBA.
+### Upcoming workshop: Saturday Aug. 5th, Baillieu Library at Melbourne University. RSVP [here](https://www.meetup.com/mindraw/events/241996498/)
 
 > These workshops are for everyone, with any backgound. What you need to bring is your: self, pens and pencils & some plain paper.
 
