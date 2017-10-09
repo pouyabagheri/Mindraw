@@ -14,4 +14,4 @@ Workshops currently occur fortnighly. Previous workshops in 2017 round were: Aug
 >
 > ### About the teacher
 Pouya Bagheri is a professional designer, also an art/design teacher. He is interested in research in the area of creativity & related knowledge, plus being a regular practitioner of mindfulness meditation, which all conclude in these workshops he is offering.
-> #### Pouya's instagram [@p0uyax](https://www.instagram.com/p0uyax)
+> #### Pouya's instagram [@pouya_ba](https://www.instagram.com/pouya_ba)
