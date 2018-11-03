@@ -1,4 +1,4 @@
-# ^dates
+#
 
 >> Join the [Meetup group](https://www.meetup.com/mindraw/)
 
