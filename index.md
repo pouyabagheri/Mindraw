@@ -2,4 +2,4 @@
 >
 > ### About the teacher
 Pouya Bagheri is a professional visual artist and industrial designer, as well as an art and design teacher. He is interested in research in the area of creativity and related theory and practice.
-> #### Pouya's instagram [@pouya_ba](https://www.instagram.com/pouya_ba) | Contract [contact](mailto:pouya.bagh@gmail.com)
+> #### Pouya's Instagram [@pouya_ba](https://www.instagram.com/pouya_ba) | [Contact](mailto:pouya.bagh@gmail.com)
