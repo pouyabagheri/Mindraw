@@ -1,60 +1,45 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <img src="/images/Mindraw logo 2.PNG" alt="mindraw logo"/>
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>Draw Your Mind</h1>
-        
-        <h4>Mindraw is regular mindful drawing workshops that you can drop in at any session.
-          <section>
-     The idea is to unleash or unblock your ability of creativity and visual thinking by using the strong tool of simple expressive drawings. You don’t need any pre-skills for that.
-Every session starts with 10 to 15 minutes of Mindfulness Meditation. After that, there is an introduction about that session, then we practice mindful drawing based on the drawing experiments that I explain.
-You will be able to find out a lot about your “self” and your “mind”. it is a fun challenge!
-Let me know if you had any questions :)
-</h4>
-          
-<h3>
-  Bring your: 
-  self, 
-  pens and pencils 
-  & some plain paper
-  </h3>
-      </header>
-      <section>
-
-      {{ content }}
-
+    <img src="{{site.logo | relative_url}}" alt="Logo"/>    
+    <div class="wrapper">  
+            <h1>Draw your mind</h1>
+      <section class="mindraw">
+        <h4 style="text-align: justify">
+            Most of us don’t feel very comfortable with drawing. When people – children or adults – are asked to draw something, it is very common to hear, “I’m not artistic!” or “I’m not creative!” – which to me sounds like if you ask someone to write their name, they say “I’m not a calligrapher!”. We just write our names and we don’t care (at least as much) about how our handwriting looks… we just write our shopping list when we need to, or our notes on the fridge when necessary.
+            <br/><br/>
+            Drawing is the ALPHABET of CREATIVITY and we need to be creative to live our lives better. When we practice creativity in one way, it does not stop there, we become more creative in other ways. That is how our brains work.
+            <br/><br/>
+            In Mindraw, we use different drawing techniques to practice creativity and to be self-expressive. Drawing is one of the simplest and most available ways to exercise our creativity.
+            <br/><br/>
+            Never think you are not creative. You just need to trigger and enable it through practice and Mindraw is one of those ways which I have been practicing it since 2014.
+            <br/><br/>
+            The moments we are creative, we are fully living our lives.<br/>
+            -        Mihaly Csikszentmihalyi
+        </h4>
       </section>
-      <footer>
+      <section class="about">
+          <h4><em>About the teacher</em></h4>
+          Pouya Bagheri is a professional visual artist and industrial designer, as well as an art and design teacher. He is interested in research and practice in the areas of creativity and drawing and related knowledge.
+          <br/>
+          <h4><em>Pouya's Instagram <a href="https://www.instagram.com/pouya_ba">@pouya_ba</a> | <a href="mailto:pouya.bagh@gmail.com">Contact</a></em></h4>
+      </section>    
+      <section style="border: none" class="maintained-by">
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }} © 2017</a></p>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-      </footer>
+        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
+      </section>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

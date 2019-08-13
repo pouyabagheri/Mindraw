@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.mindraw {
+  float: left;
+  border: none
+}
+
+.about {
+  float: right;
+  width: 300px;
+  border: none
+}
+
+.maintained-by {
+  float: left
+}
+
+@media print, screen and (max-width: 960px) {
+  .mindraw {
+    width: 100%;
+    border: none;
+  }
+  
+  .about {
+    width: 100%;
+    border: none;
+  }
+
+  .maintained-by {
+    width: 100%;
+  }
+}
